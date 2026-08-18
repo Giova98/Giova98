@@ -88,31 +88,5 @@ Consultora de ingeniería de software e infraestructura crítica.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Giova98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giova98&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giova98&layout=compact&theme=dark)
-
----
-
-## 🏆 Trofeos de GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Giova98&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📝 Cita aleatoria de desarrollo
-
-> "El software funcional es mejor que la documentación exhaustiva." — *Principio del Manifiesto Ágil*
-
----
-
-## 👀 Visitas al perfil
-
-![Profile views](https://komarev.com/ghpvc/?username=Giova98&color=blue&style=flat-square)
-
----
-
 **¡Conectemos!**  
-[LinkedIn](https://www.linkedin.com/in/giovani-luciano-seta/) · [Email](mailto:giovanilucianoseta@gmail.com) · [LaCanchera](https://lacanchera.online/)
+[LinkedIn](https://www.linkedin.com/in/giovani-luciano-seta/) · [Email](mailto:giovanilucianoseta@gmail.com) · [SetaFixIT](https://setafixit.lacanchera.online/) · [LaCanchera](https://lacanchera.online/)
